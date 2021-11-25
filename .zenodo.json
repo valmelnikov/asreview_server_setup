@@ -1,0 +1,24 @@
+{
+	"description": "This repo contains information on how the ASReview server was set up for MegaMeta study.", 
+	"title": "ASReview server setup for MegaMeta study",
+	"creators": [{
+			"name": "Melnikov, Valentin",
+			"affiliation": "Amsterdam UMC, Department of Psychiatry and Centre for Urban Mental Health, University of Amsterdam, The Netherlands",
+			"orcid": "0000-0002-9236-6717"
+		}
+	],
+	"keywords": [
+		"ASReview",
+		"systematic review",
+		"active learning",
+		"machine learning",
+	],
+	"related_identifiers": [
+		{
+			"relation": "isPartOf",
+		 	"identifier": "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021266297"
+		}
+	],
+	"license": "MIT",
+	"upload_type": "software"
+}
