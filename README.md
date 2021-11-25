@@ -1,8 +1,22 @@
 # ASReview server setup for MegaMeta study
 
-The repository is part of the so-called, Mega-Meta study on reviewing factors contributing to substance use, anxiety, and depressive disorders. The study protocol has been pre-registered at [Prospero](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021266297). The current repository contains the procedure for screening the records identified in the search as described by [Brouwer et al (2021)](https://osf.io/m5uhy/). 
+The repository is part of the so-called, Mega-Meta study on reviewing factors
+contributing to substance use, anxiety, and depressive disorders. The study
+protocol has been pre-registered at
+[Prospero](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021266297).
+The current repository contains the procedure for screening the records
+identified in the search as described by [Brouwer et al
+(2021)](https://osf.io/m5uhy/). 
 
-The screening was conducted in the software ASReview ([Van de Schoot et al., 2020](https://www.nature.com/articles/s42256-020-00287-7) using the protocol as described in [Hofstee et al. (2021)](https://osf.io/3znar/). The server installation is described in [Melnikov (2021)](https://github.com/valmelnikov/asreview_server_setup), training of the hyperparameters for the CNN-model is described by [Tijema et al (2021)](https://github.com/asreview/paper-megameta-hyperparameter-training), and the post-processing is described by [van de Brand et al., 2021][6]. The data can be found on DANS [LINK NEEDED].
+The screening was conducted in the software ASReview ([Van de Schoot et al.,
+2020](https://www.nature.com/articles/s42256-020-00287-7) using the protocol
+as described in [Hofstee et al. (2021)](https://osf.io/3znar/). The server
+installation is described in [Melnikov
+(2021)](https://github.com/valmelnikov/asreview_server_setup), training of the
+hyperparameters for the CNN-model is described by [Tijema et al
+(2021)](https://github.com/asreview/paper-megameta-hyperparameter-training),
+and the post-processing is described by [van de Brand et al., 2021][6]. The
+data can be found on DANS [LINK NEEDED].
 
 
 This repo contains information on how the ASReview server was set up for MegaMeta study.
