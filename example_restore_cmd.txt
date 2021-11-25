@@ -1,0 +1,1 @@
+rsync -aPh backup/incr/anxiety-test/2021-06-29_16-11-46/ backup/restored/anxiety-test
