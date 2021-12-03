@@ -11,12 +11,24 @@
 		"ASReview",
 		"systematic review",
 		"active learning",
-		"machine learning",
+		"machine learning"
 	],
 	"related_identifiers": [
 		{
-			"relation": "isPartOf",
-		 	"identifier": "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021266297"
+			"relation": "continues",
+		 	"identifier": "https://doi.org/10.17605/OSF.IO/M5UHY"
+		},
+		{
+			"relation": "continues",
+		 	"identifier": "https://doi.org/10.17605/OSF.IO/3ZNAR"
+		},
+		{
+			"relation": "continues",
+		 	"identifier": "https://doi.org/10.5281/zenodo.5747049"
+		},
+		{
+			"relation": "isContinuedBy",
+		 	"identifier": "https://doi.org/10.5281/zenodo.5752357"
 		}
 	],
 	"license": "MIT",
