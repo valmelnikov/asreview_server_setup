@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/431794923.svg)](https://zenodo.org/badge/latestdoi/431794923)
+
 # ASReview server setup for MegaMeta study
 
 The repository is part of the so-called, Mega-Meta study on reviewing factors
